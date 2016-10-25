@@ -1,0 +1,14 @@
+##alidayu
+
+修改至阿里大于官方python sdk 支持python2, python3
+依赖six
+
+    pip install six
+
+pip可直接安装
+
+    pip install alidayu
+
+有什么问题提issue
+
+恩就这样。
